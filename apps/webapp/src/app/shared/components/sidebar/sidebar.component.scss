@@ -1,0 +1,11 @@
+:host {
+  display: block;
+  width: 200px;
+  mat-nav-list {
+    padding-top: 0;
+    mat-icon {
+      margin-left: 8px;
+      margin-right: 16px;
+    }
+  }
+}
